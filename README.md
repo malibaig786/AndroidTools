@@ -9,6 +9,25 @@ List of Tools for android developers
 | [ShapeShifter](https://shapeshifter.design/)| SVG icon animation tool for Android, iOS, and the web 
 | [Material Icon Generator](https://android-material-icon-generator.bitdroid.de/)| Icons with that loooooong material shadow. Fast and simple material style SVG icons for your Android app and website!
 
+### Networking
+|                 Name                                                       |                      Description
+| ------------------------------------------                                 |  --------------------------------------------------------
+| [Insomnia](https://insomnia.rest)                                          | For testing your apies just like Postman
+| [PostMan](https://www.getpostman.com)                                      | 
+| [JsonLint](https://jsonlint.com)                                           | Validate Json result form apies for any syntax errors 
+| [JsonSchema2Pojo](http://www.jsonschema2pojo.org)                          | Generate from Json to POJOs 
+| [Mock Json](http://jsonstub.com/)                                          | Mock your apies result
+| [JsonViewer](http://jsonviewer.stack.hu)                                   | View Json in clean format
+| [JsonEditorOnline](http://jsoneditoronline.org)                            | 
+| [JsonFormatter](https://jsonformatter.org/)                                |
+| [JsonFormatter2](https://jsonformatter.curiousconcept.com/)                | 
+
+
+### Debugging
+|                 Name                                                       |                      Description
+| ------------------------------------------                                 |  --------------------------------------------------------
+| []()
+| []()
 
 ### Wireframing & Prototyping Tool
 - [Adobe XD](http://www.adobe.com/products/xd.html)                            
