@@ -26,8 +26,11 @@ List of Tools for android developers
 ### Debugging
 |                 Name                                                       |                      Description
 | ------------------------------------------                                 |  --------------------------------------------------------
-| []()
-| []()
+| [Timber](https://github.com/JakeWharton/timber)| A logger with a small, extensible API which provides utility on top of Android's normal Log class.                                
+| [Pidcat](https://github.com/JakeWharton/pidcat)| Shows log entries for processes from a specific application package
+| [Stetho](https://github.com/facebook/stetho)| Stetho is a sophisticated debug bridge for Android applications. When enabled, 
+developers have access to the Chrome Developer Tools feature natively part of 
+the Chrome desktop browser.
 
 ### Wireframing & Prototyping Tool
 - [Adobe XD](http://www.adobe.com/products/xd.html)                            
