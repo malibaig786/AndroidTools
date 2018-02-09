@@ -23,12 +23,20 @@ List of Tools for android developers
 | [JsonFormatter2](https://jsonformatter.curiousconcept.com/)                | 
 
 
-### Profile Your App Performance (https://developer.android.com/studio/profile/index.html)
+### [Profile Your App Performance](https://developer.android.com/studio/profile/index.html)
 |                 Name                                                       |                      Description
 | ------------------------------------------                                 |  --------------------------------------------------------
 | [Layout Inspector](https://developer.android.com/studio/debug/layout-inspector.html)| The Layout Inspector in Android Studio allows you to inspect your app's view hierarchy at runtime from within the Android Studio IDE. 
 | [Hierarchy Viewer](https://developer.android.com/studio/profile/hierarchy-viewer.html)| Hierarchy Viewer is a tool built into Android Device Monitor that allows you to measure the layout speed for each view in your layout hierarchy.specific application package
-
+| [Pixel Perfect ](https://developer.android.com/studio/debug/pixel-perfect.html)|Pixel Perfect is a tool built into Android Device Monitor that displays a magnified view of your app so you can inspect the position and properties of individual pixels in your layout, and help match your app's layout to design mockups
+| [Memory Profiler ](https://developer.android.com/studio/profile/memory-profiler.html)|The Memory Profiler is a component in the Android Profiler that helps you identify memory leaks and memory churn that can lead to stutter, freezes, and even app crashes
+| [CPU Profiler](https://developer.android.com/studio/profile/cpu-profiler.html#overview)|The CPU Profiler helps you inspect your app’s CPU usage and thread activity in real-time, and record method traces, so you can optimize and debug your app’s code.
+| [Network Profiler](https://developer.android.com/studio/profile/network-profiler.html)|The Network Profiler displays realtime network activity on a timeline, showing data sent and received, as well as the current number of connections.
+| [Profile GPU](https://developer.android.com/studio/profile/inspect-gpu-rendering.html#profile_rendering)|Android includes some on-device developer options that help you visualize where your app might be running into issues rendering its UI, such as performing more rendering work than necessary, or executing long thread and GPU operations.
+| [Battery Historian](https://developer.android.com/studio/profile/battery-historian.html)|Batterystats is a tool included in the Android framework that collects battery data on your device.
+| [Tracer](https://developer.android.com/studio/profile/gltracer.html)|Tracer is a tool for analyzing your app's OpenGL for Embedded Systems (ES) code.
+| [Traceview](https://developer.android.com/studio/profile/traceview.html)|Traceview is a tool that provides a graphical representations of trace logs.
+| []()|
 
 ### Debugging
 |                 Name                                                       |                      Description
