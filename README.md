@@ -35,6 +35,7 @@ List of Tools for android developers
 | [Proguard](https://www.guardsquare.com/en/proguard)|Obfuscate, Optimize and remove used code 
 | [redex](https://code.facebook.com/projects/1716360741972916/redex/)|A bytecode optimizer for Android apps
 | [ClassyShark](https://github.com/google/android-classyshark)|ClassyShark is a standalone binary inspection tool for Android developers. 
+| [Avocado](https://github.com/alexjlockwood/avdo)|Command line tool (similar to svgo) that optimizes Android VectorDrawable (VD) and AnimatedVectorDrawable (AVD) xml files.
 
 
 ### Debugging
