@@ -28,8 +28,7 @@ List of Tools for android developers
 |                 Name                                                       |                      Description
 | ------------------------------------------                                 |  --------------------------------------------------------
 | [Lint](https://developer.android.com/studio/write/lint.html)|code scanning tool that can help you to identify and correct problems with the structural quality of your code without your having to execute the app or write test cases.
-| [checkstyle](https://github.com/checkstyle/checkstyle)|Checkstyle is a development tool to help programmers write Java code 
-that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable.
+| [CheckStyle](https://github.com/checkstyle/checkstyle)|Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable.
 | [Infer](https://code.facebook.com/projects/449931035189038/infer/)|A static analyzer for Java, C, C++, and Objective-C 
 | [PMD](https://github.com/pmd/pmd)|An extensible cross-language static code analyzer.
 | [Findbugs](http://findbugs.sourceforge.net)|A program which uses static analysis to look for bugs in Java code.
