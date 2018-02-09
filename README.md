@@ -45,6 +45,8 @@ List of Tools for android developers
 | [Stetho](https://github.com/facebook/stetho)| Stetho is a sophisticated debug bridge for Android applications. When enabled, developers have access to the Chrome Developer Tools feature natively part of the Chrome desktop browser.
 | [Leak Canary](https://github.com/square/leakcanary)|A memory leak detection library for Android and Java.
 | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics/)|Firebase Crashlytics is a lightweight, realtime crash reporter that helps you track, prioritize, and fix stability issues that erode your app quality.
+| [Bugsee](https://www.bugsee.com/)|Record VIDEO OF USER ACTIONS, NETWORK TRAFFIC,CONSOLE LOGS and more
+| [AppCam.io](https://appcam.io/) [Blog](https://blog.appcam.io/)|AppCam is a platform built for Android development teams that makes it incredibly easy to record users interacting with your apps — You just send your users a link to click!.
 
 
 ### [Profile Your App Performance](https://developer.android.com/studio/profile/index.html)
