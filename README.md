@@ -9,6 +9,20 @@ List of Tools for android developers
 | [ShapeShifter](https://shapeshifter.design/)| SVG icon animation tool for Android, iOS, and the web 
 | [Material Icon Generator](https://android-material-icon-generator.bitdroid.de/)| Icons with that loooooong material shadow. Fast and simple material style SVG icons for your Android app and website!
 
+### Code Analysis & Optimization
+|                 Name                                                       |                      Description
+| ------------------------------------------                                 |  --------------------------------------------------------
+| [Lint](https://developer.android.com/studio/write/lint.html)|code scanning tool that can help you to identify and correct problems with the structural quality of your code without your having to execute the app or write test cases.
+| [CheckStyle](https://github.com/checkstyle/checkstyle)|Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable.
+| [Infer](https://code.facebook.com/projects/449931035189038/infer/)|A static analyzer for Java, C, C++, and Objective-C 
+| [PMD](https://github.com/pmd/pmd)|An extensible cross-language static code analyzer.
+| [Findbugs](http://findbugs.sourceforge.net)|A program which uses static analysis to look for bugs in Java code.
+| [Proguard](https://www.guardsquare.com/en/proguard)|Obfuscate, Optimize and remove used code 
+| [redex](https://code.facebook.com/projects/1716360741972916/redex/)|A bytecode optimizer for Android apps
+| [ClassyShark](https://github.com/google/android-classyshark)|ClassyShark is a standalone binary inspection tool for Android developers. 
+| [Avocado](https://github.com/alexjlockwood/avdo)|Command line tool (similar to svgo) that optimizes Android VectorDrawable (VD) and AnimatedVectorDrawable (AVD) xml files.
+
+
 ### Networking
 |                 Name                                                       |                      Description
 | ------------------------------------------                                 |  --------------------------------------------------------
@@ -22,20 +36,6 @@ List of Tools for android developers
 | [JsonFormatter](https://jsonformatter.org/)                                |
 | [JsonFormatter2](https://jsonformatter.curiousconcept.com/)                | 
 | [JsonMate](jsonmate.com)                                                   | 
-
-
-### Code Analysis & Optimization
-|                 Name                                                       |                      Description
-| ------------------------------------------                                 |  --------------------------------------------------------
-| [Lint](https://developer.android.com/studio/write/lint.html)|code scanning tool that can help you to identify and correct problems with the structural quality of your code without your having to execute the app or write test cases.
-| [CheckStyle](https://github.com/checkstyle/checkstyle)|Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable.
-| [Infer](https://code.facebook.com/projects/449931035189038/infer/)|A static analyzer for Java, C, C++, and Objective-C 
-| [PMD](https://github.com/pmd/pmd)|An extensible cross-language static code analyzer.
-| [Findbugs](http://findbugs.sourceforge.net)|A program which uses static analysis to look for bugs in Java code.
-| [Proguard](https://www.guardsquare.com/en/proguard)|Obfuscate, Optimize and remove used code 
-| [redex](https://code.facebook.com/projects/1716360741972916/redex/)|A bytecode optimizer for Android apps
-| [ClassyShark](https://github.com/google/android-classyshark)|ClassyShark is a standalone binary inspection tool for Android developers. 
-| [Avocado](https://github.com/alexjlockwood/avdo)|Command line tool (similar to svgo) that optimizes Android VectorDrawable (VD) and AnimatedVectorDrawable (AVD) xml files.
 
 
 ### Debugging
