@@ -33,6 +33,7 @@ List of Tools for android developers
 | ------------------------------------------                                 |  --------------------------------------------------------
 | [Insomnia](https://insomnia.rest)                                          | For testing your apies just like Postman
 | [PostMan](https://www.getpostman.com)                                      | 
+| [Telerik Fiddler](https://www.telerik.com/fiddler)|The free web debugging proxy for any browser, system or platform
 | [JsonLint](https://jsonlint.com)                                           | Validate Json result form apies for any syntax errors 
 | [JsonSchema2Pojo](http://www.jsonschema2pojo.org)                          | Generate from Json to POJOs 
 | [Mock Json](http://jsonstub.com/)                                          | Mock your apies result
