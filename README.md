@@ -24,6 +24,16 @@ List of Tools for android developers
 | [JsonMate](jsonmate.com)                                                   | 
 
 
+### Debugging
+|                 Name                                                       |                      Description
+| ------------------------------------------                                 |  --------------------------------------------------------
+| [Timber](https://github.com/JakeWharton/timber)| A logger with a small, extensible API which provides utility on top of Android's normal Log class.                                
+| [Pidcat](https://github.com/JakeWharton/pidcat)| Shows log entries for processes from a specific application package
+| [Stetho](https://github.com/facebook/stetho)| Stetho is a sophisticated debug bridge for Android applications. When enabled, developers have access to the Chrome Developer Tools feature natively part of the Chrome desktop browser.
+| [Leak Canary](https://github.com/square/leakcanary)|A memory leak detection library for Android and Java.
+| [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics/)|Firebase Crashlytics is a lightweight, realtime crash reporter that helps you track, prioritize, and fix stability issues that erode your app quality.
+
+
 ### [Profile Your App Performance](https://developer.android.com/studio/profile/index.html)
 |                 Name                                                       |                      Description
 | ------------------------------------------                                 |  --------------------------------------------------------
@@ -53,15 +63,6 @@ List of Tools for android developers
 | [JOBB](https://developer.android.com/studio/command-line/jobb.html)|The jobb tool allows you to build encrypted and unencrypted APK expansion files in Opaque Binary Blob (OBB) format.
 | [mksdcard](https://developer.android.com/studio/command-line/mksdcard.html)|Use the mksdcard tool to create a FAT32 disk image that you can load into emulators running different Android Virtual Devices (AVDs) to simulate the presence of the same SD card in multiple devices.
 | [zipalign](https://developer.android.com/studio/command-line/zipalign.html)|zipalign is an archive alignment tool that provides important optimization to Android application (APK) files. 
-
-
-### Debugging
-|                 Name                                                       |                      Description
-| ------------------------------------------                                 |  --------------------------------------------------------
-| [Timber](https://github.com/JakeWharton/timber)| A logger with a small, extensible API which provides utility on top of Android's normal Log class.                                
-| [Pidcat](https://github.com/JakeWharton/pidcat)| Shows log entries for processes from a specific application package
-| [Stetho](https://github.com/facebook/stetho)| Stetho is a sophisticated debug bridge for Android applications. When enabled, developers have access to the Chrome Developer Tools feature natively part of the Chrome desktop browser.
-
 
 
 ### Wireframing & Prototyping Tool
