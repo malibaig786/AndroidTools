@@ -85,6 +85,11 @@ List of Tools for android developers
 | [mksdcard](https://developer.android.com/studio/command-line/mksdcard.html)|Use the mksdcard tool to create a FAT32 disk image that you can load into emulators running different Android Virtual Devices (AVDs) to simulate the presence of the same SD card in multiple devices.
 | [zipalign](https://developer.android.com/studio/command-line/zipalign.html)|zipalign is an archive alignment tool that provides important optimization to Android application (APK) files. 
 
+### Dependency Injection
+|                 Name                                                       |                      Description
+| ------------------------------------------                                 |  --------------------------------------------------------
+| [Dagger 2](https://github.com/google/dagger)|A fast dependency injector for Android and Java.
+| [ToothPick](https://github.com/stephanenicolas/toothpick)|A scope tree based Dependency Injection (DI) library for Java
 
 ### Wireframing & Prototyping Tool
 - [Adobe XD](http://www.adobe.com/products/xd.html)                            
