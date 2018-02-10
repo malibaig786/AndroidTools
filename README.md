@@ -124,6 +124,7 @@ List of Tools for android developers
 ### CI & CD
 - [Jenkins](https://jenkins.io)
 - [Travis CI](https://travis-ci.org)
+- [GitLab CI](https://about.gitlab.com/features/gitlab-ci-cd/)
 - [BitRise](https://www.bitrise.io/)
 - [Circle CI](https://circleci.com)
 - [AppVeyor](https://www.appveyor.com)
