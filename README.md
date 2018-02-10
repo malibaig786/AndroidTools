@@ -109,11 +109,16 @@ List of Tools for android developers
 | [Appium ](http://appium.io)|Test automation framework for use with native, hybrid and mobile web apps. It drives iOS, Android, and Windows apps using the WebDriver protocol.
 | [Calabash](http://calaba.sh/)|Automated acceptance testing fro mobile apps
 
-### App automation
+### App Automation
 |                 Name                                                       |                      Description
 | ------------------------------------------                                 |  --------------------------------------------------------
 | [FastLane](https://fastlane.tools/)|Capture screenshots automatically, Distribute beta builds, Publish your app with the push of a button
 
+### Beta Testing 
+|                 Name                                                       |                      Description
+| ------------------------------------------                                 |  --------------------------------------------------------
+| [HockeyApp](https://hockeyapp.net)|Crash reporting, Distribution of apps, User feedback, User metrics
+| [TestFairy](https://testfairy.com)|Testing platform, providing companies with detailed video recordings, logs and crash reports of mobile sessions.
 
 ### Wireframing & Prototyping Tool
 - [Adobe XD](http://www.adobe.com/products/xd.html)                            
