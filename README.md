@@ -120,6 +120,17 @@ List of Tools for android developers
 | [HockeyApp](https://hockeyapp.net)|Crash reporting, Distribution of apps, User feedback, User metrics
 | [TestFairy](https://testfairy.com)|Testing platform, providing companies with detailed video recordings, logs and crash reports of mobile sessions.
 
+
+### CI & CD
+- [Jenkins](https://jenkins.io)
+- [Travis CI](https://travis-ci.org)
+- [BitRise](https://www.bitrise.io/)
+- [Circle CI](https://circleci.com)
+- [AppVeyor](https://www.appveyor.com)
+  For Windows
+- [NeverCode](https://nevercode.io/pricing/)
+
+
 ### Wireframing & Prototyping Tool
 - [Adobe XD](http://www.adobe.com/products/xd.html)                            
 - [Sketch](https://www.sketchapp.com)                                          
