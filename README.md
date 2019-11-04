@@ -5,7 +5,8 @@ List of Tools for android developers
 |                 Name                                                       |                      Description
 | ------------------------------------------                                 |  --------------------------------------------------------
 | [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html)| A collection of tools to easily generate assets such as launcher icons for your Android app.
-| [COLOR TOOL](https://material.io/color/#!/?view.left=0&view.right=0)| Create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination.
+| [COLOR TOOL](https://material.io/resources/color/#!/?view.left=0&view.right=0)| Create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination.
+| [Material Theme Editor](https://material.io/resources/theme-editor/)| Create and customize your Material theme.
 | [ShapeShifter](https://shapeshifter.design/)| SVG icon animation tool for Android, iOS, and the web 
 | [Material Icon Generator](https://android-material-icon-generator.bitdroid.de/)| Icons with that loooooong material shadow. Fast and simple material style SVG icons for your Android app and website!
 | [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/)| Highlight code for slides. For best results, copy from Safari with Keynote decks and from Chrome with Google Slides decks.
